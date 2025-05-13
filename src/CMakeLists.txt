@@ -1,7 +1,10 @@
 #
 # Minimum required version of CMAKE
 #
-CMAKE_MINIMUM_REQUIRED (VERSION 3.0)
+CMAKE_MINIMUM_REQUIRED (VERSION 3.5)
+
+
+CMAKE_POLICY (VERSION 3.5)
 
 #
 # Project name
